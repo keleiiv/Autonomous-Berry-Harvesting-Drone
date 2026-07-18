@@ -18,6 +18,20 @@ An autonomous aerial robotic system designed to locate, track, and harvest ripe 
 
 ---
 
+## 📐 Hardware Architecture & Mechanical Design
+
+### 1. Conceptual System Layout
+![System Layout](./hardware/system_layout.png)
+
+---
+
+### 2. End-Effector Mechanism & Actuation Reference
+| Reference Concept | Embedded Actuation Blueprint |
+| :---: | :---: |
+| ![Pruning Configuration](./hardware/shear_geometry.jpg) | ![Actuated Cutter Mechanism](./hardware/actuated_mechanism_reference.jpg) |
+
+---
+
 ## 📅 Development Roadmap & Timeline
 * [x] **Phase 1: Literature Review & System Architecture** – Defining communication protocols between high-level vision and low-level control systems[cite: 1].
 * [🔄] **Phase 2: CAD Modeling & Simulation** – Designing the lightweight structural chassis and soft robotic gripper in Fusion 360/SolidWorks[cite: 1]. *(Current Phase)*
